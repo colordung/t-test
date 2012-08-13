@@ -1,6 +1,6 @@
 t-test
 
-asdf
+aasdf
 
 아마도 이거 우키 문법이 있는드스.
 
